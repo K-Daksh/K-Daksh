@@ -36,7 +36,7 @@
 <h2 align="center" >Past Work 💻</h2><br>
 <div align="center"><br>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=Face-Detection-Project&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=tokyonight&hide_border=true)](https://github.com/K-Daksh/Face-Detection-Project) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=Feeling-Lucky&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=tokyonight&hide_border=true)](https://github.com/K-Daksh/Feeling-Lucky)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=Face-Detection-Project&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=tokyonight&hide_border=true)](https://github.com/K-Daksh/Face-Detection-Project) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=Feeling-Lucky&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=tokyonight&hide_border=true)](https://github.com/K-Daksh/Feeling-Lucky)  &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=Bankify-TheBank&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=tokyonight&hide_border=true)](https://github.com/K-Daksh/Bankify-TheBank)
 
   &nbsp;
   
