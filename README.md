@@ -29,7 +29,8 @@
 <p align="center">
   <a>
     <br>
-    <img src="https://skillicons.dev/icons?i=c,babel,bootstrap,cpp,cmake,css,flask,html,js,mysql,py,wordpress,react" />
+    <img src="https://skillicons.dev/icons?i=babel,bootstrap,css,flask,html,wordpress,react" /> <br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,js,mysql,py" />
   </a>
 </p>
 <br>
