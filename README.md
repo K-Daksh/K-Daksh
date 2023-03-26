@@ -29,7 +29,7 @@
 <p align="center">
   <a>
     <br>
-    <img src="https://skillicons.dev/icons?i=c,babel,bootstrap,cpp,cmake,css,flask,html,js,mysql,py,wordpress" />
+    <img src="https://skillicons.dev/icons?i=c,babel,bootstrap,cpp,cmake,css,flask,html,js,mysql,py,wordpress,react" />
   </a>
 </p>
 <br>
