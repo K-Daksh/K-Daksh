@@ -1,8 +1,6 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<h1 align="left">Hey there, I am Daksh Kitukale <img src="https://mwcorvettes.com/wp-content/uploads/2019/03/savethewave-300x252.gif" width="46" height="39" alt="Wave"></h1>
-<a href="https://www.linkedin.com/in/daksh-kitukale-824843235/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=38BDAE&width=800&height=100&lines=An+ardent+WebDeveloper+and+Competitive+Programmer" alt="Typing SVG" /></a>
+<h1 align="center">Hey there, I am Daksh Kitukale <img src="https://mwcorvettes.com/wp-content/uploads/2019/03/savethewave-300x252.gif" width="46" height="39" alt="Wave"></h1>
+<div align="center"><a href="https://www.linkedin.com/in/daksh-kitukale-824843235/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=38BDAE&width=800&height=100&lines=An+ardent+WebDeveloper+and+Competitive+Programmer" alt="Typing SVG" /></a></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=K-Daksh&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="k-daksh" /> </p><br>
-
 
 -  📝 I’m currently learning **Full Stack Web Development**
 
@@ -18,10 +16,10 @@
 <img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/dakshkitukale03" target="_blank">
-<img src="https://img.shields.io/static/v1?label=&message=GeeksForGeeks&color=brightgreen&style=for-the-badge" ;></img></a>
+<img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" ;></img></a>
 </a> 
 <a href="https://www.codechef.com/users/daksh_kitukale" target="_blank">
-<img src="https://img.shields.io/static/v1?label=&message=CodeChef&color=orange&style=for-the-badge" />
+<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
 </a>
 </div>
 <br>
@@ -29,8 +27,7 @@
 <p align="center">
   <a>
     <br>
-    <img src="https://skillicons.dev/icons?i=babel,bootstrap,css,flask,html,wordpress,react" /> <br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,js,mysql,py" />
+    <img src="https://skillicons.dev/icons?i=babel,bootstrap,css,flask,html,wordpress,react,c,cpp,cmake,js,mysql,py" /> <br>
   </a>
 </p>
 <br>
@@ -49,4 +46,17 @@
 <div align="center">
   <a align="center" href="https://github.com/K-Daksh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Daksh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1116" /></a> 
   <a align="center" href="https://github.com/K-Daksh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Daksh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1116" /></a>
+</div>
+
+<h2 align="center">Streaks, anyone?</h2>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=K-Daksh&theme=tokyonight-duo&hide_border=true"></img>
+  
+</div>
+
+<h2 align="center">¿Hablas español?</h2>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Daksh&layout=donut&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=tokyonight&hide_border=true"></img>
 </div>
