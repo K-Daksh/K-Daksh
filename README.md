@@ -1,4 +1,6 @@
-<h1 align="center">Hey there, I am Daksh Kitukale <img src="https://mwcorvettes.com/wp-content/uploads/2019/03/savethewave-300x252.gif" width="46" height="39" alt="Wave"></h1>
+![Example Image](https://drive.google.com/uc?id=1BjVA6mGGEJkSpmf_KKGoVWv5OBQbt-ks)
+<h1></h1>
+<h2 align="center">Hey there, I am Daksh Kitukale <img src="https://mwcorvettes.com/wp-content/uploads/2019/03/savethewave-300x252.gif" width="46" height="39" alt="Wave"></h2>
 <div align="center"><a href="https://www.linkedin.com/in/daksh-kitukale-824843235/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=38BDAE&width=800&height=100&lines=An+ardent+WebDeveloper+and+Competitive+Programmer" alt="Typing SVG" /></a></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=K-Daksh&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="k-daksh" /> </p><br>
 
