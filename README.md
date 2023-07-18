@@ -57,8 +57,3 @@
   
 </div>
 
-<h2 align="center">¿Hablas español?</h2>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Daksh&layout=donut&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=tokyonight&hide_border=true"></img>
-</div>
