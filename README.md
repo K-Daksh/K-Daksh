@@ -1,4 +1,4 @@
-![Example Image](https://drive.google.com/uc?id=1BjVA6mGGEJkSpmf_KKGoVWv5OBQbt-ks)
+![Profile Banner](https://drive.google.com/uc?id=1BjVA6mGGEJkSpmf_KKGoVWv5OBQbt-ks)
 <h1></h1>
 <h2 align="center">Hey there, I am Daksh Kitukale <img src="https://mwcorvettes.com/wp-content/uploads/2019/03/savethewave-300x252.gif" width="46" height="39" alt="Wave"></h2>
 <div align="center"><a href="https://www.linkedin.com/in/daksh-kitukale-824843235/"></a></div>
