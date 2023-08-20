@@ -1,7 +1,8 @@
 
 
-<h1>Hey there <img src="https://mwcorvettes.com/wp-content/uploads/2019/03/savethewave-300x252.gif" width="46" height="39" alt="Wave"></h1>
-
+<h1 align="center">Hey there <img src="https://mwcorvettes.com/wp-content/uploads/2019/03/savethewave-300x252.gif" width="46" height="39" alt="Wave"></h1>
+<h1 align="center">I am Daksh Kitukale</h1>
+<h3 align="center">3rd year bachelor's  student at AITR</h3>
 <br>
 <div align="center"><a href="https://www.linkedin.com/in/daksh-kitukale-824843235/"></a></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=K-Daksh&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="k-daksh" /> </p><br>
@@ -17,16 +18,16 @@
 <br><h2 align="center">Connect with me here</h2><br>
 <div align="center">
 <a href="https://www.linkedin.com/in/daksh-kitukale-824843235/" target="_blank">
-<img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=gray&style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/dakshkitukale03" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" ;></img></a>
+<img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=white" ;></img></a>
 </a> 
 <a href="https://www.codechef.com/users/daksh_kitukale" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeChef-gray.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
 </a>
 <a href="https://codeforces.com/profile/K-Daksh" target="_blank">
-<img src="https://img.shields.io/badge/CodeForces-yellow.svg?style=for-the-badge&logo=CodeForces&logoColor=red" />
+<img src="https://img.shields.io/badge/CodeForces-gray.svg?style=for-the-badge&logo=CodeForces&logoColor=white" />
 </a>
 </div>
 <br>
