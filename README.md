@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey there <img src="https://mwcorvettes.com/wp-content/uploads/2019/03/savethewave-300x252.gif" width="46" height="39" alt="Wave"></h1>
+<h1 align="center">Hey there</h1>
 <h1 align="center">I am Daksh Kitukale, a 3rd year bachelor's  student at AITR</h1>
 <br>
 <div align="center"><a href="https://www.linkedin.com/in/daksh-kitukale-824843235/"></a></div>
