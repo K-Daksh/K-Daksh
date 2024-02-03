@@ -52,8 +52,8 @@
 <h2 align="center">Statistics</h2>
 <br>
 <div align="center">
-  <a align="center" href="https://github.com/K-Daksh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Daksh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1116&rank_icon=github" /></a> 
-  <a align="center" href="https://github.com/K-Daksh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Daksh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1116" /></a>
+  <a align="center" href="https://github.com/K-Daksh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Daksh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1116&rank_icon=github&disable_animations=true" /></a> 
+  <a align="center" href="https://github.com/K-Daksh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Daksh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1116&disable_animations=true" /></a>
 </div>
 
 
