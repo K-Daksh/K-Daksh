@@ -1,20 +1,15 @@
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Red+Hat+Display&weight=700&size=40&duration=1&pause=99999999999999999999999999999&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=60&lines=Daksh+Kitukale)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Red+Hat+Display&weight=700&size=40&pause=400&color=007EC6&center=true&vCenter=true&random=false&width=600&height=60&lines=Full-stack+web+developer+;Competitive+programmer;IOT+Enthusiast)](https://git.io/typing-svg)
 
-<h1 align="center">Hey there</h1>
-<h1 align="center">I am Daksh Kitukale, a 3rd year bachelor's  student at AITR</h1>
+</div>
+
 <br>
 <div align="center"><a href="https://www.linkedin.com/in/daksh-kitukale-824843235/"></a></div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=K-Daksh&label=Profile%20views&color=blue&style=for-the-badge" alt="k-daksh" /> </p><br>
-
--  I’m currently learning **BACK-END Web Development**
-
--  I’m looking to collaborate on **MERN Stack and C++ projects**
-
--  All of my projects are available at &nbsp; <a href="https://github.com/K-Daksh?tab=repositories" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=My Projects&color=blue&style=plastic&logo=github" /></a>
-
--  How to reach me **dakshkitukale03@gmail.com**
-
-<br><h2 align="center">Connect with me here</h2><br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=K-Daksh&label=Profile%20views&color=blue&style=for-the-badge" alt="k-daksh" /> </p><br>
+<h2 align="center">Connect with me here</h2><br>
 <div align="center">
 <a href="https://www.linkedin.com/in/daksh-kitukale-824843235/" target="_blank">
 <img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&style=for-the-badge&logo=linkedin" />
@@ -27,6 +22,9 @@
 </a>
 <a href="https://codeforces.com/profile/K-Daksh" target="_blank">
 <img src="https://img.shields.io/badge/CodeForces-blue.svg?style=for-the-badge&logo=CodeForces&logoColor=white" />
+</a>
+<a href="https://leetcode.com/K-Daksh/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-blue.svg?style=for-the-badge&logo=LeetCode&logoColor=white" />
 </a>
 </div>
 <br>
@@ -54,7 +52,7 @@
 <h2 align="center">Statistics</h2>
 <br>
 <div align="center">
-  <a align="center" href="https://github.com/K-Daksh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Daksh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1116" /></a> 
+  <a align="center" href="https://github.com/K-Daksh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Daksh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1116&rank_icon=github" /></a> 
   <a align="center" href="https://github.com/K-Daksh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Daksh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1116" /></a>
 </div>
 
