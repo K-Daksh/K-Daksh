@@ -25,7 +25,7 @@
 <br>
 <div align="center"><br>
 
-&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=Schedulo&bg_&theme=react&hide_border=true)](https://github.com/K-Daksh/Schedulo)
+&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mukundsolanki&repo=Schedulo&bg_&theme=react&hide_border=true)](https://github.com/K-Daksh/Schedulo)
 &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=UberClone&bg_&theme=react&hide_border=true)](https://github.com/K-Daksh/UberClone)
 &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=qrrate&bg_&theme=react&hide_border=true)](https://github.com/K-Daksh/qrrate)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=youtube-downloader&bg_&theme=react&hide_border=true)](https://github.com/K-Daksh/youtube-downloader) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=Interview_Sync&bg_&theme=react&hide_border=true)](https://github.com/K-Daksh/Interview_Sync)  &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=IMC-revenue&bg_&theme=react&hide_border=true)](https://github.com/K-Daksh/IMC-revenue)
