@@ -1,15 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Red+Hat+Display&weight=700&size=40&duration=1&pause=99999999999999999999999999999&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=60&lines=Daksh+Kitukale)](https://git.io/typing-svg)
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Red+Hat+Display&weight=700&size=40&pause=400&color=007EC6&center=true&vCenter=true&random=false&width=600&height=60&lines=Full-stack+web+developer+;Competitive+programmer;IOT+Enthusiast)](https://git.io/typing-svg)
+<h1>DAKSH KITUKALE</h1>
 
 </div>
 
 <br>
 <div align="center"><a href="https://www.linkedin.com/in/daksh-kitukale-824843235/"></a></div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=K-Daksh&label=Profile%20views&color=blue&style=for-the-badge" alt="k-daksh" /> </p><br>
-<h2 align="center">Connect with me here</h2><br>
 <div align="center">
 <a href="https://www.linkedin.com/in/daksh-kitukale-824843235/" target="_blank">
 <img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&style=for-the-badge&logo=linkedin" />
@@ -28,7 +25,6 @@
 </a>
 </div>
 <br>
-<h2 align="center">Languages and Tools</h2><br>
 <p align="center">
   <a>
     <br>
@@ -37,23 +33,20 @@
   </a>
 </p>
 <br>
-<h2 align="center" >Past Work</h2><br>
 <div align="center"><br>
 
-&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=altcode&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=tokyonight&hide_border=true)](https://github.com/K-Daksh/altcode)
-&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=qrrate&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=tokyonight&hide_border=true)](https://github.com/K-Daksh/qrrate)
-&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=typemini&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=tokyonight&hide_border=true)](https://github.com/K-Daksh/typemini)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=Face-Detection-Project&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=tokyonight&hide_border=true)](https://github.com/K-Daksh/Face-Detection-Project) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=Feeling-Lucky&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=tokyonight&hide_border=true)](https://github.com/K-Daksh/Feeling-Lucky)  &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=Bankify-TheBank&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=tokyonight&hide_border=true)](https://github.com/K-Daksh/Bankify-TheBank)
+&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=altcode&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=apprentice&hide_border=true)](https://github.com/K-Daksh/altcode)
+&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=qrrate&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=apprentice&hide_border=true)](https://github.com/K-Daksh/qrrate)
+&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=typemini&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=apprentice&hide_border=true)](https://github.com/K-Daksh/typemini)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=Face-Detection-Project&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=apprentice&hide_border=true)](https://github.com/K-Daksh/Face-Detection-Project) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=Feeling-Lucky&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=tokyonight&hide_border=true)](https://github.com/K-Daksh/Feeling-Lucky)  &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=Bankify-TheBank&bg_color=0d1116&title_color=38bdae&text_color=a4aacb&icon_color=007ec6&theme=apprentice&hide_border=true)](https://github.com/K-Daksh/Bankify-TheBank)
 
   &nbsp;
   
 </div>
-
-<h2 align="center">Statistics</h2>
 <br>
 <div align="center">
-  <a align="center" href="https://github.com/K-Daksh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Daksh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1116&rank_icon=github&disable_animations=true" /></a> 
-  <a align="center" href="https://github.com/K-Daksh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Daksh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1116&disable_animations=true" /></a>
+  <a align="center" href="https://github.com/K-Daksh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Daksh&show_icons=true&theme=apprentice&hide_border=true&bg_color=0d1116&rank_icon=github&disable_animations=true" /></a> 
+  <a align="center" href="https://github.com/K-Daksh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Daksh&layout=compact&theme=apprentice&hide_border=true&bg_color=0d1116&disable_animations=true" /></a>
 </div>
 
 
